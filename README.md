@@ -1,6 +1,9 @@
-# baby-countdown
+# Vue.js Countdown
 
-> Baby Countdown
+> Countdown to future date using Vue.js and countdown.js
+
+![Countdown Preview](https://github.com/brandonsimpson/countdown/src/assets/countdown_preview.png)
+
 
 ## Build Setup
 
