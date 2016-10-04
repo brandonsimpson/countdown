@@ -2,7 +2,7 @@
 
 > Countdown to future date using Vue.js and countdown.js
 
-![Countdown Preview](https://github.com/brandonsimpson/countdown/src/assets/countdown_preview.png)
+![Countdown Preview](https://raw.githubusercontent.com/brandonsimpson/countdown/master/src/assets/countdown_preview.png)
 
 
 ## Build Setup
